@@ -1,0 +1,29 @@
+PS D:\project\Expense-Management-System> npm init -y
+
+PS D:\project\Expense-Management-System> npm i express colors morgan dotenv nodemon cors 
+
+PS D:\project\Expense-Management-System> npm i mongoose
+
+D:\project\Expense-Management-System>npx create-react-app client
+
+PS D:\project\Expense-Management-System\client> npm i axios react-router-dom redux react-redux 
+
+PS D:\project\Expense-Management-System\client> npm install antd
+
+PS D:\project\Expense-Management-System> npm i concurrently
+
+PS C:\Users\MAYANK KUMAR\Downloads\Expense-Management-System-MERN-STACK-Project-05-code-till-edit-delete-transactions\Expense-Management-System-MERN-STACK-Project-05-code-till-edit-delete-transactions> npm i moment
+
+PS C:\Users\MAYANK KUMAR\Downloads\Expense-Management-System-MERN-STACK-Project-05-code-till-edit-delete-transactions\Expense-Management-System-MERN-STACK-Project-05-code-till-edit-delete-transactions> npm install --save @ant-design/icons
+
+
+concurrently is used to start the project type: npm run dev
+fronted: http://localhost:3000/
+database: https://cloud.mongodb.com/v2/665473a83036860fa25ac02d#/metrics/replicaSet/6654742b386e703b322b3f9c/explorer/expenseApp/users/find
+
+
+
+
+PS C:\Users\MAYANK KUMAR\Downloads\Expense-Management-System-MERN-STACK-Project-05-code-till-edit-delete-transactions\Expense-Management-System-MERN-STACK-Project-05-code-till-edit-delete-transactions\client> npm run build
+
+
